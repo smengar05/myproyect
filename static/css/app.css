@@ -1,0 +1,12 @@
+.navbar-brand {
+    font-family: 'Peralta', cursive;
+}
+
+body {
+    background-image: url(../img/fondo.png);
+}
+
+.editor-toolbar {
+    background-color: white !important; /* Fondo transparente */
+    box-shadow: none; /* Opcional: elimina la sombra */
+}
