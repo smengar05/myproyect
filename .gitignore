@@ -1,3 +1,7 @@
 venv\
 bin
 *.pyc
+__pycache__/
+# SQLite database files
+
+*.sqlite3
